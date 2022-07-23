@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @harshrai222
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Python
+- 📫 You can connect with me by clicking in this link www.linkedin.com/in/harsh-rai-222connect
 
 <!---
 harshrai222/harshrai222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
