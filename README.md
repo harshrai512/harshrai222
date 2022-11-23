@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshrai222
-- 👀 I’m interested in Full STack Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C++
 - 📫 You can connect with me by clicking in this link www.linkedin.com/in/harsh-rai-222connect
 
